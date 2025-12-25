@@ -25,7 +25,7 @@ Blinkit-Dashboard/
 │ └── Blinkit_Dashboard.pbix
 │
 ├── data/
-│ └── 
+│ └── BlinkIT Grocery Data
 │
 ├── images/
 │ └── dashboard.png
