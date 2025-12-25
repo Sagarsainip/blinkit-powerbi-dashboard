@@ -39,9 +39,6 @@ Blinkit-Dashboard/
 ---
 
 ## 📊 Dashboard Preview
-
-(Upload your screenshot inside the images folder as `dashboard.png`)
-
 ![Blinkit Dashboard](images/dashboard.png)
 
 ---
@@ -92,11 +89,6 @@ reports/Blinkit_Dashboard.pbix
   - Date & time fields
 
 Data is shared only for learning and practice purposes.
-
----
-
-## Author -
-***Sagar Saini***
 
 ---
 
