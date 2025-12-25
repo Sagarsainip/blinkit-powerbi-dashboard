@@ -1,0 +1,29 @@
+# --- System files ---
+.DS_Store
+Thumbs.db
+
+# --- Temporary files ---
+~$
+*.tmp
+*.log
+
+# --- Power BI auto-generated ---
+*.pbix.local
+*.pbit.local
+
+# --- Backups ---
+*.bak
+*.old
+
+# --- Python / notebooks (future use) ---
+__pycache__/
+.ipynb_checkpoints/
+
+# --- Editors / IDE ---
+.vscode/
+.idea/
+
+# --- Archives ---
+*.rar
+*.7z
+*.zip
